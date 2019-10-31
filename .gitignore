@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# idea
+.idea
+
+# data
+
+data/raw
+
+# gitkeep
+!.gitkeep
